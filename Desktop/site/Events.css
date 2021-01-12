@@ -1,0 +1,63 @@
+﻿body{
+	background-image:url('57080.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 250%;	
+	margin:0;
+}
+.navbar{
+	font-family:Lato;
+	width:110%;
+	overflow:auto;
+}
+.navbar a{
+	background-color:silver;
+	font-family:Lato;
+	float:left;
+	padding:12px;
+	color:white;
+	text-decoration:none;
+	font-size:27px;
+	width:31%;
+	text-align:center;
+}
+.navbar a:hover{
+	background-color:gray;
+}
+h1{
+	color:red;
+	font-size:50px;
+	text-align:center;
+	padding-top:40px;	
+}
+h2{
+	text-align:center;
+	color:red;
+}
+h3{
+	text-align:center;
+	color:blue;
+	padding-top:10px;
+	background-color:gray;
+}
+h3:nth-child(even){
+	width:100%;
+	background-color:fuchsia;
+}
+.footer{
+	width:100%;
+	text-align:center;
+	position:fixed;
+	bottom:0;
+	font-size:15px;
+	background-color:lime;
+	font-family:"Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
